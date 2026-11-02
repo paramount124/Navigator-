@@ -94,6 +94,8 @@ You will see a blue floating ❓ icon in the bottom right corner of the screen.
 Click the icon to open the chat panel.
 
 Type your objective (e.g., "Where do I log in?").
+<img width="2702" height="1518" alt="image" src="https://github.com/user-attachments/assets/dae9ba5e-46cc-44ae-8f27-60f1ce33abab" />
+
 
 Click Guide Me.
 
