@@ -98,6 +98,7 @@ Type your objective (e.g., "Where do I log in?").
 Click Guide Me.
 
 The AI will highlight the first step. Click the highlighted element on the actual website to proceed. The extension will automatically wait for the next page or menu to load and then provide the subsequent step.
+<img width="2664" height="1498" alt="image" src="https://github.com/user-attachments/assets/59283c77-4463-4215-a8db-da9ee033412c" />
 
 Manual Rescan: If the website takes too long to load or the AI gets stuck, open the ❓ menu and click the yellow Scan New Screen button to force the AI to re-evaluate the current page.
 
