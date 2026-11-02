@@ -85,7 +85,7 @@ Click the Load unpacked button (top left corner).
 
 Select your nav-extension folder. The "NavGuide Interactive Helper" should now appear in your extensions list.
 
-🕹️ Usage
+ Usage
 
 Navigate to any standard website (e.g., amazon.com, wikipedia.org). Note: Extensions do not run on Chrome Web Store pages or empty new tabs.
 
@@ -101,7 +101,7 @@ The AI will highlight the first step. Click the highlighted element on the actua
 
 Manual Rescan: If the website takes too long to load or the AI gets stuck, open the ❓ menu and click the yellow Scan New Screen button to force the AI to re-evaluate the current page.
 
-🛠️ Troubleshooting
+Troubleshooting
 
 Error: Could not connect to the Python server.
 Ensure your Uvicorn server is running in the terminal and listening on http://127.0.0.1:8000. If it is running on a different port, update the fetch() URL in content.js.
